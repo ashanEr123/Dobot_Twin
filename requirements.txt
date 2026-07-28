@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+pymoo
+matplotlib
+joblib
+pydobot
+pyserial
+keyboard
+opencv-python
+opencv-contrib-python
